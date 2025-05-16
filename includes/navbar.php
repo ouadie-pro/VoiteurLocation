@@ -1,11 +1,11 @@
 <?php
     $current_path = $_SERVER['PHP_SELF'];
     $current_page = basename($current_path);
-    $inVoiteur = (strpos($current_path, '/VOITEUR/') !== false );
+    $inFolder = (strpos($current_path, '/VOITEUR/') !== false || strpos($current_path, '/reservation/') !== false);
 ?>
 <nav class="navbar navbar-expand-lg navbar-primary bg-primary">
     <div class="container-fluid">
-        <?php if($inVoiteur):?>
+        <?php if($inFolder):?>
         <a class="navbar-brand" href="../interface.php">location de voiteur</a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
@@ -16,7 +16,7 @@
                 <a class="nav-link active" aria-current="page" href="../interface.php">Accueil</a>
                 </li>
                 <li class="nav-item">
-                <a class="nav-link" href="../resevation/reservation.php">Réserver</a>
+                <a class="nav-link" href="../reservation/voiteurSport1.php">Réserver</a>
                 </li>
                 <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
@@ -53,7 +53,7 @@
                 <a class="nav-link active" aria-current="page" href="interface.php">Accueil</a>
                 </li>
                 <li class="nav-item">
-                <a class="nav-link" href="resevation/reservation.php">Réserver</a>
+                <a class="nav-link" href="reservation/voiteurSport1.php">Réserver</a>
                 </li>
                 <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
