@@ -112,7 +112,7 @@
                         <p style="text-transform: capitalize;">classic-car</p>
                         <div style="border-top: 1px solid gray;"></div>
                         <div style="display: flex;flex-direction: row;justify-content: space-between;margin-top: 20px">
-                            <h2>$180$</h2>
+                            <h2>180$</h2>
                             <a href="#" class="btn btn-primary"><i class="fa-solid fa-cart-shopping mr-2" style="color: white;"></i>cloick</a>
                         </div>
                     </div>

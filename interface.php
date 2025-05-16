@@ -18,7 +18,7 @@
             min-height: 300px;
             transition: transform 0.3s;
         }
-        .card:hover {
+        /* .card:hover {
             transform: translateY(-5px);
             box-shadow: 0 10px 20px rgba(0,0,0,0.1);
         }
@@ -33,7 +33,7 @@
             .card-img-top {
                 height: 150px;
             }
-        }
+        } */
     </style>
 </head>
 <body>
