@@ -1,6 +1,3 @@
-<?php
-    include('../navbar.php');
-?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -13,8 +10,10 @@
 </head>
 <body>
     <div class="container-fluid mt-4">
+    <?php
+        include('../includes/navbar.php');
+    ?>
         <div class="row">
-
             <div class="col-12 col-sm-6 col-md-4 col-lg-3 mb-4">
                 <div class="card product-card h-100">
                     <img src="../img_voiteur/car classic/car classic (1).jpg" class="card-img-top img-fluid">
