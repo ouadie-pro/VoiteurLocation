@@ -15,10 +15,9 @@
         }
         .card {
             margin-bottom: 20px;
-            min-height: 300px;
             transition: transform 0.3s;
         }
-        /* .card:hover {
+        .card:hover {
             transform: translateY(-5px);
             box-shadow: 0 10px 20px rgba(0,0,0,0.1);
         }
@@ -33,13 +32,13 @@
             .card-img-top {
                 height: 150px;
             }
-        } */
+        }
     </style>
 </head>
 <body>
     <div class="container product-container">
         <div class="row">
-            <div class="col-md-6">
+            <div class="col-12 col-sm-6 col-md-4">
                 <div class="card h-100">
                     <img src="img_voiteur/car All/voiteur sportAll.jpg" class="card-img-top" alt="Voiture de sport">
                     <div class="card-body">
@@ -52,8 +51,8 @@
                 </div>
             </div>
 
-            <div class="col-md-6 product-info">
-                <div class="card">
+            <div class="col-12 col-sm-6 col-md-4 product-info">
+                <div class="card h-100">
                     <img src="img_voiteur/car All/voiteur familyAll.jpg" class="card-img-top" alt="Voiture Familiale">
                     <div class="card-body">
                         <h5 class="card-title">Voiture Familiale</h5>
@@ -63,8 +62,10 @@
                         <small class="text-muted">Mis à jour il y a 3 minutes</small>
                     </div>
                 </div>
+            </div>
 
-                <div class="card">
+            <div class="col-12 col-sm-6 col-md-4 product-info">
+                <div class="card h-100">
                     <img src="img_voiteur/car All/voiteur classiceAll.jpg" class="card-img-top" alt="Voiture Familiale Luxe">
                     <div class="card-body">
                         <h5 class="card-title">Voiture Familiale Luxe</h5>
@@ -78,4 +79,4 @@
         </div>
     </div>
 </body>
-</html><
+</html>
