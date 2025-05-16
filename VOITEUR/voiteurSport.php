@@ -1,6 +1,3 @@
-<?php
-    include('../navbar.php');
-?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -12,6 +9,9 @@
     <link rel="stylesheet" href="../bootstrap-5.3.5-dist/css/bootstrap.css">
 </head>
 <body>
+    <?php
+        include('../includes/navbar.php');
+    ?>
     <div class="container-fluid mt-4">
         <div class="row">
             <div class="col-12 col-sm-6 col-md-4 col-lg-3 mb-4">
