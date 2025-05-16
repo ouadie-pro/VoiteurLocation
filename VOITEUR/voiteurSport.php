@@ -18,11 +18,11 @@
                 <div class="card product-card h-100">
                     <img src="../img_voiteur/car sport/car sport (1).jpg" class="card-img-top img-fluid" alt="">
                     <div class="card-body d-flex flex-column">
-                        <h1 class="card-title" style="text-transform: capitalize;"></h1>
+                        <h1 class="card-title" style="text-transform: capitalize;">lamborghini urus</h1>
                         <p style="text-transform: capitalize;">Sport-car</p>
                         <div style="border-top: 1px solid gray;"></div>
                         <div style="display: flex;flex-direction: row;justify-content: space-between;margin-top: 20px">
-                            <h2></h2>
+                            <h2>250$</h2>
                             <a href="#" class="btn btn-primary"><i class="fa-solid fa-cart-shopping mr-2" style="color: white;"></i>cloick</a>
                         </div>
                     </div>
@@ -37,7 +37,7 @@
                         <p style="text-transform: capitalize;">Sport-car</p>
                         <div style="border-top: 1px solid gray;"></div>
                         <div style="display: flex;flex-direction: row;justify-content: space-between;margin-top: 20px">
-                            <h2></h2>
+                            <h2>120$</h2>
                             <a href="#" class="btn btn-primary"><i class="fa-solid fa-cart-shopping mr-2" style="color: white;"></i>cloick</a>
                         </div>
                     </div>
@@ -48,11 +48,11 @@
                 <div class="card product-card h-100">
                     <img src="../img_voiteur/car sport/car sport (3).jpg" class="card-img-top img-fluid" alt="">
                     <div class="card-body d-flex flex-column">
-                        <h1 class="card-title" style="text-transform: capitalize;"></h1>
+                        <h1 class="card-title" style="text-transform: capitalize;">mercedes-maybaych</h1>
                         <p style="text-transform: capitalize;">Sport-car</p>
                         <div style="border-top: 1px solid gray;"></div>
                         <div style="display: flex;flex-direction: row;justify-content: space-between;margin-top: 20px">
-                            <h2></h2>
+                            <h2>200$</h2>
                             <a href="#" class="btn btn-primary"><i class="fa-solid fa-cart-shopping mr-2" style="color: white;"></i>cloick</a>
                         </div>
                     </div>
@@ -67,7 +67,7 @@
                         <p style="text-transform: capitalize;">Sport-car</p>
                         <div style="border-top: 1px solid gray;"></div>
                         <div style="display: flex;flex-direction: row;justify-content: space-between;margin-top: 20px">
-                            <h2></h2>
+                            <h2>1500$</h2>
                             <a href="#" class="btn btn-primary"><i class="fa-solid fa-cart-shopping mr-2" style="color: white;"></i>cloick</a>
                         </div>
                     </div>
@@ -82,7 +82,7 @@
                         <p style="text-transform: capitalize;">Sport-car</p>
                         <div style="border-top: 1px solid gray;"></div>
                         <div style="display: flex;flex-direction: row;justify-content: space-between;margin-top: 20px">
-                            <h2></h2>
+                            <h2>1000$</h2>
                             <a href="#" class="btn btn-primary"><i class="fa-solid fa-cart-shopping mr-2" style="color: white;"></i>cloick</a>
                         </div>
                     </div>
@@ -93,11 +93,11 @@
                 <div class="card product-card h-100">
                     <img src="../img_voiteur/car sport/car sport (6).jpg" class="card-img-top img-fluid" alt="">
                     <div class="card-body d-flex flex-column">
-                        <h1 class="card-title" style="text-transform: capitalize;">porche 911 gt3 rs (991.2)</h1>
+                        <h1 class="card-title" style="text-transform: capitalize;">porche 911 gt3 rs </h1>
                         <p style="text-transform: capitalize;">Sport-car</p>
                         <div style="border-top: 1px solid gray;"></div>
                         <div style="display: flex;flex-direction: row;justify-content: space-between;margin-top: 20px">
-                            <h2></h2>
+                            <h2>300$</h2>
                             <a href="#" class="btn btn-primary"><i class="fa-solid fa-cart-shopping mr-2" style="color: white;"></i>cloick</a>
                         </div>
                     </div>
@@ -112,7 +112,7 @@
                         <p style="text-transform: capitalize;">Sport-car</p>
                         <div style="border-top: 1px solid gray;"></div>
                         <div style="display: flex;flex-direction: row;justify-content: space-between;margin-top: 20px">
-                            <h2></h2>
+                            <h2>180$</h2>
                             <a href="#" class="btn btn-primary"><i class="fa-solid fa-cart-shopping mr-2" style="color: white;"></i>cloick</a>
                         </div>
                     </div>
@@ -123,11 +123,11 @@
                 <div class="card product-card h-100">
                     <img src="../img_voiteur/car family/car family (1).jpg" class="card-img-top img-fluid" alt="">
                     <div class="card-body d-flex flex-column">
-                        <h1 class="card-title" style="text-transform: capitalize;"></h1>
+                        <h1 class="card-title" style="text-transform: capitalize;">nissan maxima</h1>
                         <p style="text-transform: capitalize;">Sport-car</p>
                         <div style="border-top: 1px solid gray;"></div>
                         <div style="display: flex;flex-direction: row;justify-content: space-between;margin-top: 20px">
-                            <h2></h2>
+                            <h2>80$</h2>
                             <a href="#" class="btn btn-primary"><i class="fa-solid fa-cart-shopping mr-2" style="color: white;"></i>cloick</a>
                         </div>
                     </div>
