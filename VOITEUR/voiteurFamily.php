@@ -7,6 +7,34 @@
     <link rel="stylesheet" href="bootstrap-5.3.5-dist/css/bootstrap.css">
     <link rel="stylesheet" href="icons/all.min.css">
     <link rel="stylesheet" href="../bootstrap-5.3.5-dist/css/bootstrap.css">
+    <style>
+        .product-card {
+            height: 100%;
+        }
+        .card-img-top {
+            height: 180px;
+            object-fit: cover;
+        }
+        .card-body {
+            min-height: 200px;
+            display: flex;
+            flex-direction: column;
+        }
+        .card-title {
+            font-size: 1.2rem;
+            margin-bottom: 0.5rem;
+        }
+        .card-text {
+            font-size: 1rem;
+        }
+        .btn {
+            padding: 0.5rem 1rem;
+            height: 40px;
+        }
+        .mt-auto {
+            margin-top: auto;
+        }
+    </style>
 </head>
 <body>
     <?php
@@ -24,7 +52,7 @@
                         <div style="border-top: 1px solid gray;"></div>
                         <div style="display: flex;flex-direction: row;justify-content: space-between;margin-top: 80px">
                             <h2>80$</h2>
-                            <a href="#" class="btn btn-primary"><i class="fa-solid fa-cart-shopping mr-2" style="color: white;"></i>cloick</a>
+                            <a href="../reservation/voiteurFamily1.php" class="btn btn-primary"><i class="fa-solid fa-cart-shopping mr-2" style="color: white;"></i>cloick</a>
                         </div>
                     </div>
                 </div>
@@ -39,7 +67,7 @@
                         <div style="border-top: 1px solid gray;"></div>
                         <div style="display: flex;flex-direction: row;justify-content: space-between;margin-top: 40px">
                             <h2>150$</h2>
-                            <a href="#" class="btn btn-primary"><i class="fa-solid fa-cart-shopping mr-2" style="color: white;"></i>cloick</a>
+                            <a href="../reservation/voiteurFamily2.php" class="btn btn-primary"><i class="fa-solid fa-cart-shopping mr-2" style="color: white;"></i>cloick</a>
                         </div>
                     </div>
                 </div>
@@ -54,7 +82,7 @@
                         <div style="border-top: 1px solid gray;"></div>
                         <div style="display: flex;flex-direction: row;justify-content: space-between;margin-top: 50px">
                             <h2>90$</h2>
-                            <a href="#" class="btn btn-primary"><i class="fa-solid fa-cart-shopping mr-2" style="color: white;"></i>cloick</a>
+                            <a href="../reservation/voiteurFamily3.php" class="btn btn-primary"><i class="fa-solid fa-cart-shopping mr-2" style="color: white;"></i>cloick</a>
                         </div>
                     </div>
                 </div>
@@ -69,7 +97,7 @@
                         <div style="border-top: 1px solid gray;"></div>
                         <div style="display: flex;flex-direction: row;justify-content: space-between;margin-top: 100px">
                             <h2>200$</h2>
-                            <a href="#" class="btn btn-primary"><i class="fa-solid fa-cart-shopping mr-2" style="color: white;"></i>cloick</a>
+                            <a href="../reservation/voiteurFamily4.php" class="btn btn-primary"><i class="fa-solid fa-cart-shopping mr-2" style="color: white;"></i>cloick</a>
                         </div>
                     </div>
                 </div>
@@ -84,7 +112,7 @@
                         <div style="border-top: 1px solid gray;"></div>
                         <div style="display: flex;flex-direction: row;justify-content: space-between;margin-top: 50px">
                             <h2>220$</h2>
-                            <a href="#" class="btn btn-primary"><i class="fa-solid fa-cart-shopping mr-2" style="color: white;"></i>cloick</a>
+                            <a href="../reservation/voiteurFamily5.php" class="btn btn-primary"><i class="fa-solid fa-cart-shopping mr-2" style="color: white;"></i>cloick</a>
                         </div>
                     </div>
                 </div>
@@ -98,7 +126,7 @@
                         <div style="border-top: 1px solid gray;"></div>
                         <div style="display: flex;flex-direction: row;justify-content: space-between;margin-top: 20px">
                             <h2>240$</h2>
-                            <a href="#" class="btn btn-primary"><i class="fa-solid fa-cart-shopping mr-2" style="color: white;"></i>cloick</a>
+                            <a href="../reservation/voiteurFamily6.php" class="btn btn-primary"><i class="fa-solid fa-cart-shopping mr-2" style="color: white;"></i>cloick</a>
                         </div>
                     </div>
                 </div>
@@ -114,7 +142,7 @@
                         <div style="border-top: 1px solid gray;"></div>
                         <div style="display: flex;flex-direction: row;justify-content: space-between;margin-top: 100px">
                             <h2>250$</h2>
-                            <a href="#" class="btn btn-primary"><i class="fa-solid fa-cart-shopping mr-2" style="color: white;"></i>cloick</a>
+                            <a href="../reservation/voiteurFamily7.php" class="btn btn-primary"><i class="fa-solid fa-cart-shopping mr-2" style="color: white;"></i>cloick</a>
                         </div>
                     </div>
                 </div>
@@ -129,7 +157,7 @@
                         <div style="border-top: 1px solid gray;"></div>
                         <div style="display: flex;flex-direction: row;justify-content: space-between;margin-top: 100px">
                             <h2>1500$</h2>
-                            <a href="#" class="btn btn-primary"><i class="fa-solid fa-cart-shopping mr-2" style="color: white;"></i>cloick</a>
+                            <a href="../reservation/voiteurFamily1.php" class="btn btn-primary"><i class="fa-solid fa-cart-shopping mr-2" style="color: white;"></i>cloick</a>
                         </div>
                     </div>
                 </div>

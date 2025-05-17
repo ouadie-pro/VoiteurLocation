@@ -10,7 +10,7 @@
     <link rel="stylesheet" href="bootstrap-5.3.5-dist/css/bootstrap.css">
 </head>
 <body>
-    <form class="row g-3 m-4">
+    <form class="row g-3 m-5 p-4">
         <div class="col-md-6">
             <label for="inputEmail4" class="form-label">Nom : </label>
             <input type="text" class="form-control" id="inputEmail4" placeholder="Enter un nom !">
