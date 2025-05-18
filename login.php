@@ -60,7 +60,7 @@ if ($_SERVER['REQUEST_METHOD'] === "POST" && isset($_POST['go'])) {
             
             // Prepare SQL statement to prevent SQL injection
             $stmt = $pdo->prepare("INSERT INTO username (nom, age, email, password, address, ville, sexe)") ;
-            $stmt = $pdo->prepare("INSERT INTO users (nom, age, email, password, address, ville, sexe) 
+            $stmt = $pdo->prepare("INSERT INTO username (nom, age, email, password, address, ville, sexe) 
                                     VALUES (:nom, :age, :email, :pass, :address, :ville, :sexe)");
             
             $stmt->execute([

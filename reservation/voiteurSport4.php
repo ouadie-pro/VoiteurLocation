@@ -20,11 +20,11 @@
                     </div>
                     <div class="card-body">
                         <div class="d-flex justify-content-between align-items-center mb-3">
-                            <h4 class="card-title.fw-bold.mb.0"></h4>
-                            <span class="badge bg-primary rounded-pill"></span>
+                            <h4 class="card-title.fw-bold.mb.0"> Voiture de Sport Premium</h4>
+                            <span class="badge bg-primary rounded-pill">Available</span>
                         </div>
                         
-                        <p class="card-text text-muted"></p>
+                        <p class="card-text text-muted">Découvrez le luxe et la performance avec notre voiture de sport premium. Idéale pour les escapades de week-end ou pour faire une impression mémorable lors d’occasions spéciales.</p>
 
                         <div class="border-top border-bottom py-3 my-3">
                             <div class="row text-center g-0">
@@ -32,21 +32,21 @@
                                     <div class="p-2">
                                         <i class="fas fa-tachometer-alt text-primary mb-2 fs-4"></i>
                                         <p class="mb-0 small fw-bold"></p>
-                                        <small class="text-muted"></small>
+                                        <small class="text-muted">Top Speed</small>
                                     </div>
                                 </div>
                                 <div class="col-4">
                                     <div class="p-2 border-start border-end">
                                         <i class="fas fa-gas-pump text-primary mb-2 fs-4"></i>
                                         <p class="mb-0 small fw-bold"></p>
-                                        <small class="text-muted"></small>
+                                        <small class="text-muted">Fuel Economy</small>
                                     </div>
                                 </div>
                                 <div class="col-4">
                                     <div class="p-2">
                                         <i class="fas fa-car-side text-primary mb-2 fs-4"></i>
-                                        <p class="mb-0 small fw-bold"></p>
-                                        <small class="text-muted"></small>
+                                        <p class="mb-0 small fw-bold">2-door</p>
+                                        <small class="text-muted">Type</small>
                                     </div>
                                 </div>
                             </div>
@@ -62,7 +62,7 @@
                                 <i class="fas fa-star-half-alt"></i>
                                 <i class="fas fa-star-half-alt"></i>
                                 <i class="fas fa-star-half-alt"></i>
-                                <span class="ms-1 text-dark"></span>
+                                <span class="ms-1 text-dark">-(4.7)</span>
                             </div>
                         </div> 
                     </div>
