@@ -22,18 +22,18 @@
                     </div>
                     <div class="card-body">
                         <div class="d-flex justify-content-between align-items-center mb-3">
-                            <h4 class="card-title fw-bold mb-0">Premium Sport Car</h4>
+                            <h4 class="card-title fw-bold mb-0"> Voiture de Sport Premium</h4>
                             <span class="badge bg-primary rounded-pill">Available</span>
                         </div>
                         
-                        <p class="card-text text-muted">Experience luxury and performance with our premium sports car. Perfect for weekend getaways or making a statement on special occasions.</p>
+                        <p class="card-text text-muted">Découvrez le luxe et la performance avec notre voiture de sport premium. Idéale pour les escapades de week-end ou pour faire une impression mémorable lors d’occasions spéciales.</p>
                         
                         <div class="border-top border-bottom py-3 my-3">
                             <div class="row text-center g-0">
                                 <div class="col-4">
                                     <div class="p-2">
                                         <i class="fas fa-tachometer-alt text-primary mb-2 fs-4"></i>
-                                        <p class="mb-0 small fw-bold">320 km/h</p>
+                                        <p class="mb-0 small fw-bold">305 km/h</p>
                                         <small class="text-muted">Top Speed</small>
                                     </div>
                                 </div>

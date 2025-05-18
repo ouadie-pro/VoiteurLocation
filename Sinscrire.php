@@ -24,8 +24,8 @@
             <input type="email" class="form-control" name="email" placeholder="Enter un email !">
         </div>
         <div class="col-12">
-            <label f class="form-label">Password : </label>
-            <input type="password" class="form-control" name="pass" placeholder="Enter un password ! ">
+            <label class="form-label">Mot de passe :</label>
+            <input type="password" class="form-control" name="pass" placeholder="Entrez un mot de passe !" required>
         </div>
         <div class="col-12">
             <label  class="form-label">Address : </label>

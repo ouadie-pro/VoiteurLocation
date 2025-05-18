@@ -20,33 +20,33 @@
                     </div>
                     <div class="card-body">
                         <div class="d-flex justify-content-between align-items-center mb-3">
-                            <h4 class="card-title.fw-bold.mb.0"></h4>
-                            <span class="badge bg-primary rounded-pill"></span>
+                            <h4 class="card-title.fw-bold.mb.0">Voiture de Sport Premium</h4>
+                            <span class="badge bg-primary rounded-pill">Available</span>
                         </div>
                         
-                        <p class="card-text text-muted"></p>
+                        <p class="card-text text-muted">Découvrez le luxe et la performance avec notre voiture de sport premium. Idéale pour les escapades de week-end ou pour faire une impression mémorable lors d’occasions spéciales.</p>
 
                         <div class="border-top border-bottom py-3 my-3">
                             <div class="row text-center g-0">
                                 <div class="col-4">
                                     <div class="p-2">
                                         <i class="fas fa-tachometer-alt text-primary mb-2 fs-4"></i>
-                                        <p class="mb-0 small fw-bold"></p>
-                                        <small class="text-muted"></small>
+                                        <p class="mb-0 small fw-bold">280 km/h</p>
+                                        <small class="text-muted">>Top Speed</small>
                                     </div>
                                 </div>
                                 <div class="col-4">
                                     <div class="p-2 border-start border-end">
                                         <i class="fas fa-gas-pump text-primary mb-2 fs-4"></i>
-                                        <p class="mb-0 small fw-bold"></p>
-                                        <small class="text-muted"></small>
+                                        <p class="mb-0 small fw-bold">8,2 L/100 km</p>
+                                        <small class="text-muted">Fuel Economy</small>
                                     </div>
                                 </div>
                                 <div class="col-4">
                                     <div class="p-2">
                                         <i class="fas fa-car-side text-primary mb-2 fs-4"></i>
-                                        <p class="mb-0 small fw-bold"></p>
-                                        <small class="text-muted"></small>
+                                        <p class="mb-0 small fw-bold">2-door</p>
+                                        <small class="text-muted">Type</small>
                                     </div>
                                 </div>
                             </div>
@@ -54,7 +54,7 @@
 
                         <div class="d-flex align-items-center">
                             <div class="me-auto">
-                                <p class="mb-0 fw-bolder fs-5">€199<span class="text-muted fs-6">/day</span></p>
+                                <p class="mb-0 fw-bolder fs-5">$120<span class="text-muted fs-6">/day</span></p>
                             </div>
                             <div class="text-warning">
                                 <i class="fas fa-star"></i>
