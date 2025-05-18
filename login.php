@@ -51,7 +51,7 @@ if ($_SERVER['REQUEST_METHOD'] === "POST" && isset($_POST['go'])) {
             $host = 'localhost';
             $dbname = 'ouadie';
             $user = 'root';
-            $password = "ouadie1234";
+            $password = "";
 
             $pdo = new PDO("mysql:host=$host;dbname=$dbname;charset=utf8", $user, $password);
             
