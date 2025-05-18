@@ -24,7 +24,7 @@
                             <span class="badge bg-primary rounded-pill"></span>
                         </div>
                         
-                        <p class="card-text text-muted"></p>
+                        <p class="card-text text-muted">Découvrez le luxe et la performance avec notre voiture de sport premium. Idéale pour les escapades de week-end ou pour faire une impression mémorable lors d’occasions spéciales.</p>
 
                         <div class="border-top border-bottom py-3 my-3">
                             <div class="row text-center g-0">
