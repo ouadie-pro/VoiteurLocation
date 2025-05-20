@@ -78,14 +78,14 @@
                         <h4 class="mb-0"><i class="fas fa-calendar-check me-2"></i>Book Your Ride</h4>
                     </div>
                     <div class="card-body p-4">
-                        <form>
+                        <form action="demande.php" method="post">
                             <div class="row g-3">
                                 <!-- Pickup Date -->
                                 <div class="col-md-6">
                                     <label class="form-label fw-bold">Pickup Date</label>
                                     <div class="input-group">
                                         <span class="input-group-text bg-light"><i class="fas fa-calendar-alt text-primary"></i></span>
-                                        <input type="date" class="form-control" placeholder="Start date">
+                                        <input type="date" class="form-control" placeholder="Start date" name="dateD">
                                     </div>
                                 </div>
                                 
@@ -94,7 +94,7 @@
                                     <label class="form-label fw-bold">Return Date</label>
                                     <div class="input-group">
                                         <span class="input-group-text bg-light"><i class="fas fa-calendar-check text-primary"></i></span>
-                                        <input type="date" class="form-control" placeholder="End date">
+                                        <input type="date" class="form-control" placeholder="End date" name="dateR">
                                     </div>
                                 </div>
                                 
@@ -103,7 +103,7 @@
                                     <label class="form-label fw-bold">CIN / ID Number</label>
                                     <div class="input-group">
                                         <span class="input-group-text bg-light"><i class="fas fa-id-card text-primary"></i></span>
-                                        <input type="text" class="form-control" placeholder="Enter your ID">
+                                        <input type="text" class="form-control" placeholder="Enter your ID" name="ID">
                                     </div>
                                 </div>
                                 
@@ -112,7 +112,7 @@
                                     <label class="form-label fw-bold">Phone Number</label>
                                     <div class="input-group">
                                         <span class="input-group-text bg-light"><i class="fas fa-phone text-primary"></i></span>
-                                        <input type="tel" class="form-control" placeholder="Your phone number">
+                                        <input type="tel" class="form-control" placeholder="Your phone number" name="phone">
                                     </div>
                                 </div>
                                 
@@ -121,7 +121,7 @@
                                     <label class="form-label fw-bold">Convocation</label>
                                     <div class="input-group">
                                         <span class="input-group-text bg-light"><i class="fas fa-file-alt text-primary"></i></span>
-                                        <input type="text" class="form-control" placeholder="Enter convocation number">
+                                        <input type="text" class="form-control" placeholder="Enter convocation number" name="conve">
                                     </div>
                                 </div>
                                 
@@ -130,14 +130,14 @@
                                     <label class="form-label fw-bold">Additional Information</label>
                                     <div class="input-group">
                                         <span class="input-group-text bg-light"><i class="fas fa-comment text-primary"></i></span>
-                                        <textarea class="form-control" rows="5" placeholder="Special requests or additional information" style="resize: none;"></textarea>
+                                        <textarea class="form-control" rows="5" placeholder="Special requests or additional information" style="resize: none;" name="texxt"></textarea>
                                     </div>
                                 </div>
                             </div>
                             
                             <!-- Submit Button -->
                             <div class="mt-4">
-                                <button type="submit" class="btn btn-primary btn-lg w-100">
+                                <button type="submit" class="btn btn-primary btn-lg w-100" name="go">
                                     <i class="fas fa-check-circle me-2"></i>Confirm Booking
                                 </button>
                             </div>
